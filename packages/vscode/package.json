@@ -1,0 +1,7 @@
+{
+  "name": "@specforge/vscode",
+  "version": "0.1.0",
+  "description": "VS Code extension for SpecForge (v0.3.0 — not yet)",
+  "private": true,
+  "license": "MIT"
+}

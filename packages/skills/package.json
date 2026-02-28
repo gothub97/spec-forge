@@ -1,0 +1,9 @@
+{
+  "name": "@specforge/skills",
+  "version": "0.1.0",
+  "description": "Claude Code skill files for SpecForge",
+  "type": "module",
+  "main": "index.js",
+  "private": true,
+  "license": "MIT"
+}

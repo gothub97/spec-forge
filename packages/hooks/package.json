@@ -1,0 +1,12 @@
+{
+  "name": "@specforge/hooks",
+  "version": "0.1.0",
+  "description": "Claude Code hooks for SpecForge",
+  "type": "module",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  },
+  "license": "MIT"
+}
